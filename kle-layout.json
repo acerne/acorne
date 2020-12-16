@@ -22,7 +22,7 @@
         2
       ]
     },
-    "\n🔈\n⇡🖱\nᐃ\n\n\n\n\n\nI"
+    "\n🔊\n⇡🖱\nᐃ\n\n\n\n\n\nI"
   ],
   [
     {
@@ -39,7 +39,7 @@
     "\nF4\n<\n3\n\n\n\n\n\nR",
     {
       "x": 6.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff",
+      "t": "#eeeeee\n\n#efe645\n#00e3ff",
       "f": 3
     },
     "\n\n⇐\nHome\n\n\n\n\n\nU",
@@ -59,7 +59,7 @@
     "\nPrScr\n>\n*\n\n\n\n\n\nT",
     {
       "x": 4.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff",
+      "t": "#eeeeee\n\n#efe645\n#00e3ff",
       "f": 3
     },
     "\n\n🖱0\nPaste\n\n\n\n\n\nY"
@@ -82,7 +82,7 @@
     "\nF1\n!\n%\n\n\n\n\n\nQ",
     {
       "x": 12.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff",
+      "t": "#eeeeee\n\n#efe645\n#00e3ff",
       "f": 3
     },
     "\n\n⇑\nPgUp\n\n\n\n\n\nP",
@@ -139,13 +139,13 @@
     {
       "y": -0.875,
       "x": 5.5,
-      "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c",
+      "t": "#eeeeee\n\n#00cb85\n#e1562c",
       "f": 3
     },
     "\n\n]\n/\n\n\n\n\n\nG",
     {
       "x": 4.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff",
+      "t": "#eeeeee\n\n#efe645\n#00e3ff",
       "f": 3
     },
     "\n\n🖱1\nCopy\n\n\n\n\n\nH"
@@ -168,7 +168,7 @@
     "\nF5\n&\n=\nShift\n\n\n\n\nA",
     {
       "x": 12.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff\n#00ff00",
+      "t": "#eeeeee\n\n#efe645\n#00e3ff\n#00ff00",
       "f": 3
     },
     "\n\n⇓\nPgDn\nShift\n\n\n\n\n;",
@@ -186,7 +186,7 @@
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00",
       "g": false,
       "a": 4,
-      "f2": 0
+      "f": 3
     },
     "\nF11\n@\n8\nAlt\n\n\n\n\nC",
     {
@@ -201,17 +201,20 @@
       "y": -0.875,
       "x": 4.5,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c",
-      "a": 4
+      "a": 4,
+      "f": 3
     },
     "\nF12\n{\n9\n\n\n\n\n\nV",
     {
       "x": 6.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff"
+      "t": "#eeeeee\n\n\n#00e3ff",
+      "f": 3
     },
     "\n\n\nInsert\n\n\n\n\n\nM",
     {
       "x": 1,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff\n#00ff00"
+      "t": "#eeeeee\n\n\n#00e3ff\n#00ff00",
+      "f": 3
     },
     "\n\n\nRedo\nSuper\n\n\n\n\n."
   ],
@@ -219,7 +222,8 @@
     {
       "y": -0.9998502999999999,
       "x": 2.5,
-      "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00"
+      "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00",
+      "f": 3
     },
     "\nF10\n~\n7\nSuper\n\n\n\n\nX"
   ],
@@ -227,12 +231,14 @@
     {
       "y": -0.8751496999999997,
       "x": 5.5,
-      "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c"
+      "t": "#eeeeee\n\n#00cb85\n#e1562c",
+      "f": 3
     },
     "\n\n}\n+\n\n\n\n\n\nB",
     {
       "x": 4.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff"
+      "t": "#eeeeee\n\n#efe645\n#00e3ff",
+      "f": 3
     },
     "\n\n🖱2\nCut\n\n\n\n\n\nN"
   ],
@@ -248,12 +254,14 @@
     {
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00",
       "g": false,
-      "a": 4
+      "a": 4,
+      "f": 3
     },
     "\nF9\n^\n#\nCtrl\n\n\n\n\nZ",
     {
       "x": 12.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff\n#00ff00"
+      "t": "#eeeeee\n\n\n#00e3ff\n#00ff00",
+      "f": 3
     },
     "\n\n\nUndo\nCtrl\n\n\n\n\n/",
     {
@@ -269,12 +277,14 @@
       "x": 4,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#e935a1",
       "g": false,
-      "a": 4
+      "a": 4,
+      "f": 3
     },
     "\nMenu\n(\n.\nMedia\n\n\n\n\nEsc",
     {
       "x": 7.5,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff\n#537eff"
+      "t": "#eeeeee\n#e935a1\n#efe645\n\n#537eff",
+      "f": 3
     },
     "\n🔇\n🖱M\n\nFn\n\n\n\n\nDel"
   ],
@@ -284,7 +294,8 @@
       "rx": 5,
       "ry": 5.15,
       "y": -0.9900000000000002,
-      "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00e3ff"
+      "t": "#eeeeee\n\n#00cb85\n#e1562c\n#00e3ff",
+      "f": 3
     },
     "\n\n)\n0\nNav\n\n\n\n\nSpace"
   ],
@@ -294,7 +305,8 @@
       "ry": 5.25,
       "y": -1.8599999999999999,
       "x": 0.9100000000000001,
-      "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#efe645",
+      "t": "#eeeeee\n\n#00cb85\n#e1562c\n#efe645",
+      "f": 3,
       "h": 1.5
     },
     "\n\n_\n-\nMouse\n\n\n\n\nTab"
@@ -305,12 +317,12 @@
       "rx": 12.5,
       "y": -1.8599999999999999,
       "x": -1.9100000000000001,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff\n#00cb85",
+      "t": "#eeeeee\n#e935a1\n#efe645\n\n#00cb85",
       "fa": [
         0,
         0,
         0,
-        0,
+        2,
         0,
         0,
         0,
@@ -328,7 +340,7 @@
       "ry": 5.15,
       "y": -0.9900000000000002,
       "x": -1,
-      "t": "#eeeeee\n#e935a1\n#efe645\n#00e3ff\n#e1562c",
+      "t": "#eeeeee\n#e935a1\n#efe645\n\n#e1562c",
       "f": 3
     },
     "\n⏯\n🖱L\n\nNum\n\n\n\n\n⌫"
