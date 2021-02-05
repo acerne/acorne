@@ -68,14 +68,13 @@
     {
       "y": -0.875,
       "x": 0.5,
-      "t": "#eeeeee",
-      "g": true,
-      "a": 7
+      "t": "#eeeeee\n#00ff00\n\n\n#00ff00",
+      "a": 5,
+      "h": 3
     },
-    "",
+    "\nOne handed",
     {
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c",
-      "g": false,
       "a": 4,
       "f": 3
     },
@@ -87,18 +86,17 @@
     },
     "\n\n⇑\nPgUp\n\n\n\n\n\nP",
     {
-      "t": "#eeeeee",
-      "g": true,
-      "a": 7
+      "t": "#eeeeee\n#00ff00\n\n\n#00ff00",
+      "a": 5,
+      "h": 3
     },
-    ""
+    "\nOne handed"
   ],
   [
     {
       "y": -0.375,
       "x": 3.5,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c",
-      "g": false,
       "a": 4,
       "f": 3
     },
@@ -153,16 +151,8 @@
   [
     {
       "y": -0.875,
-      "x": 0.5,
-      "t": "#eeeeee",
-      "g": true,
-      "a": 7
-    },
-    "",
-    {
+      "x": 1.5,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00",
-      "g": false,
-      "a": 4,
       "f": 3
     },
     "\nF5\n&\n=\nShift\n\n\n\n\nA",
@@ -171,21 +161,13 @@
       "t": "#eeeeee\n\n#efe645\n#00e3ff\n#00ff00",
       "f": 3
     },
-    "\n\n⇓\nPgDn\nShift\n\n\n\n\n;",
-    {
-      "t": "#eeeeee",
-      "g": true,
-      "a": 7
-    },
-    ""
+    "\n\n⇓\nPgDn\nShift\n\n\n\n\n;"
   ],
   [
     {
       "y": -0.375,
       "x": 3.5,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00",
-      "g": false,
-      "a": 4,
       "f": 3
     },
     "\nF11\n@\n8\nAlt\n\n\n\n\nC",
@@ -245,16 +227,8 @@
   [
     {
       "y": -0.875,
-      "x": 0.5,
-      "t": "#eeeeee",
-      "g": true,
-      "a": 7
-    },
-    "",
-    {
+      "x": 1.5,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#00ff00",
-      "g": false,
-      "a": 4,
       "f": 3
     },
     "\nF9\n^\n#\nCtrl\n\n\n\n\nZ",
@@ -263,21 +237,13 @@
       "t": "#eeeeee\n\n\n#00e3ff\n#00ff00",
       "f": 3
     },
-    "\n\n\nUndo\nCtrl\n\n\n\n\n/",
-    {
-      "t": "#eeeeee",
-      "g": true,
-      "a": 7
-    },
-    ""
+    "\n\n\nUndo\nCtrl\n\n\n\n\n/"
   ],
   [
     {
       "y": -0.21499999999999986,
       "x": 4,
       "t": "#eeeeee\n#537eff\n#00cb85\n#e1562c\n#e935a1",
-      "g": false,
-      "a": 4,
       "f": 3
     },
     "\nMenu\n(\n.\nMedia\n\n\n\n\nEsc",
